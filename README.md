@@ -7,6 +7,7 @@
 ## Dependencies 🛠
 
 - `hardhat`
+- `openzeppelin`
 
 ## Tech Stack 🛠
 
